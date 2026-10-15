@@ -1,0 +1,6 @@
+{
+  "name": "HOMECONNECT - Domestic Worker Recruitment & Verification Marketplace",
+  "description": "Trusted domestic worker recruitment platform with background verification, smart AI matching, candidate comparison, and interview scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
